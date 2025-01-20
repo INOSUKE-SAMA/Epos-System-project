@@ -12,10 +12,10 @@ const Header = () => {
           />
           <FaSearch className="absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-500 text-2xl" />
         </div>
-        <button className="p-2 ml-3 border-2 border-gray-500 rounded-lg"> {/* Square border with curved corners */}
+        <button className="p-2 ml-3 border-2 border-gray-500 rounded-lg">
           <FaSync className="text-blue-500 text-xl" />
         </button>
-        <button className="p-2 ml-3 border-2 border-gray-500 rounded-lg"> {/* Square border with curved corners */}
+        <button className="p-2 ml-3 border-2 border-gray-500 rounded-lg"> 
           <FaBell className="text-blue-500 text-xl" />
         </button>
       </div>
