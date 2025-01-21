@@ -9,7 +9,7 @@ const Sidebar = () => {
   };
 
   return (
-    <div className="bg-blue-700 text-white w-64 min-h-screen p-4 flex flex-col items-center">
+    <div className="bg-blue-500 text-white w-64 min-h-screen p-4 flex flex-col items-center">
       {/* Header */}
       <h1 className="text-3xl font-bold mb-6 text-center">
         <span className="block">EPOS</span>
