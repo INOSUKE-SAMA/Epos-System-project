@@ -41,11 +41,10 @@ const Sidebar = () => {
       {showFood && (
         <div className="space-y-3 w-full">
           <ul className="text-lg">
-            <li className="text-center p-3">Burger</li>
-            <li className="text-center p-3">Sandwiches</li>
-            <li className="text-center p-3">Pizza</li>
-            <li className="text-center p-3">Momo</li>
-            <li className="text-center p-3">Snacks</li>
+            <li className="text-center p-3">Chicken Breast Meals</li>
+            <li className="text-center p-3">Seafood Meals</li>
+            <li className="text-center p-3">Canadian Meals</li>
+            <li className="text-center p-3">Extra Meals</li>
           </ul>
         </div>
       )}
